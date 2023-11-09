@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-4\Assignments\Part-5DecisionMaking\Decisionmaking\Decisionmaking\bin\Debug\Decisionmaking.exe.config
+C:\mphasis-B2\Day-4\Assignments\Part-5DecisionMaking\Decisionmaking\Decisionmaking\bin\Debug\Decisionmaking.exe
+C:\mphasis-B2\Day-4\Assignments\Part-5DecisionMaking\Decisionmaking\Decisionmaking\bin\Debug\Decisionmaking.pdb
+C:\mphasis-B2\Day-4\Assignments\Part-5DecisionMaking\Decisionmaking\Decisionmaking\obj\Debug\Decisionmaking.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-4\Assignments\Part-5DecisionMaking\Decisionmaking\Decisionmaking\obj\Debug\Decisionmaking.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-4\Assignments\Part-5DecisionMaking\Decisionmaking\Decisionmaking\obj\Debug\Decisionmaking.exe
+C:\mphasis-B2\Day-4\Assignments\Part-5DecisionMaking\Decisionmaking\Decisionmaking\obj\Debug\Decisionmaking.pdb
